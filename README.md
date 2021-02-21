@@ -1,1 +1,1 @@
-# KaggleProjects
+# Data Science Projects
