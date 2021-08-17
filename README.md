@@ -8,13 +8,13 @@ This dataset contains personal medical costs based on certain number of factors 
 It is done via Linear Regression and Random Forest Regressor.
 
 3] Titanic Survival Prediction  (Feb 2019 - March 2019)
-The dataset contains details of the titanic passengers. The task here is use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+The dataset contains details of the titanic passengers. The task here is to use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
 4] Mental Health Survey (Prediction) (March 2021 - March 2021)
 This dataset is from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace.The task here is to create a machine learning model that predicts if the treatment for mental health is required or not.
 
 5] Vehicle Image Classifier (April 2021 - April 2021)
-This dataset contains images of different vehicles which are needed to be classified.The task here is use machine learning to create a model that classifies the given image into one the categories of the vehicles.
+This dataset contains images of different vehicles which are needed to be classified.The task here is to use machine learning to create a model that classifies the given image into one the categories of the vehicles.
 
 These projects demonstrates following skills- 
 
